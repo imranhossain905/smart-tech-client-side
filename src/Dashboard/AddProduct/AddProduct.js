@@ -1,7 +1,9 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+import useTitle from '../../hook/useTitle';
 
 const AddProduct = () => {
+    useTitle('AddProduct');
     return (
         <div className="card w-62 p-5">
             <div className=" bg-gray-300 card-body">

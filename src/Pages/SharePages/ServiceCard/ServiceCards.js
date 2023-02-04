@@ -4,6 +4,7 @@ import { HiArrowNarrowRight } from "react-icons/hi";
 import ServiceCard from './ServiceCard';
 
 const ServiceCards = () => {
+    
     const [categori, setCategori] = useState([]);
 
     useEffect(() => {

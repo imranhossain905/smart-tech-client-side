@@ -1,7 +1,9 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+import useTitle from '../hook/useTitle';
 
 const Login = () => {
+    useTitle('Login');
     return (
 
         <div className='container'>

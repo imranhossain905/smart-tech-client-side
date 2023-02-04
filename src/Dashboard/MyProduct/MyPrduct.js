@@ -1,6 +1,8 @@
 import React from 'react';
+import useTitle from '../../hook/useTitle';
 
 const MyPrduct = () => {
+    useTitle('MyPrduct');
     return (
         <div>
             <div className="overflow-x-auto py-5">

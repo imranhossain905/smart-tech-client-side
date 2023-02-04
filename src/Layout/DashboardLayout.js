@@ -1,8 +1,10 @@
 import React from 'react';
 import { Link, Outlet } from 'react-router-dom';
 import Navbar from '../Home/Navbar/Navbar';
+import useTitle from '../hook/useTitle';
 
 const DashboardLayout = () => {
+    useTitle('Dashboar');
     return (
         <div>
              <Navbar/>
