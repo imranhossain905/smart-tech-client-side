@@ -1,0 +1,23 @@
+[
+    {       
+        "name": "HP Laptop",
+        "img": "https://www.bdstall.com/asset/product-image/giant_133585.jpg",
+        "category": "Laptop"
+       
+    },
+    {       
+        "name": "Desktop PC",
+        "img": "https://www.bdstall.com/asset/product-image/giant_141800.jpg",       
+        "category": " PC"
+       
+       
+
+    },    
+        
+    {        
+        "name": "PC Parts & Accessories",
+        "img": "https://www.bdstall.com/asset/product-image/giant_198665.jpg",
+        "category": "Parts & Accessories"
+       
+    }   
+]

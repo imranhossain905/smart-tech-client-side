@@ -1,0 +1,17 @@
+
+.btn-buy {
+    color: white;
+    background-color: tomato; 
+    border: none;
+    border-radius: 5px;
+    padding: 8px 25px;
+    cursor: pointer;
+    background-size: 200%;
+    transition: 0.5s;
+}
+.btn-buy:hover{
+    color: white;
+    background-position: right;
+    background-image: linear-gradient(to left, #FFC312, #EE5A24, #FFC330);
+    padding: 10px 60px;
+}

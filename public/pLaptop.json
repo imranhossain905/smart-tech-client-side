@@ -1,0 +1,59 @@
+
+[
+    {
+        "name": "Asus VivoBook 15 X515EA Core i3 11th Gen Laptop",
+        "img": "https://www.bdstall.com/asset/product-image/giant_148081.jpg",
+        "category": "Laptop",
+        "category_id": "01",
+        "discountPrice": " 57,400",
+        "originalPrice": " 57,500"
+
+    },
+    {
+        "name": "Lenovo ThinkPad X1 Carbon Core i5 8th Gen Laptop",
+        "img": "https://www.bdstall.com/asset/product-image/giant_191343.jpg",
+        "category": "Laptop",
+        "category_id": "02",
+        "discountPrice": "41,000",
+        "originalPrice": "41,500"
+
+    },
+    {
+        "name": "HP EliteBook X360 1040 G6 Core i7 8th Gen Laptop",
+        "img": "https://www.bdstall.com/asset/product-image/giant_180960.jpg",
+        "category": "Laptop",
+        "category_id": "03",
+        "discountPrice": " 62,000",
+        "originalPrice": " 62,500"
+
+    },
+    {
+        "name": "HP ProBook 440 G8 Core i5 11th Gen Laptop",
+        "img": "https://www.bdstall.com/asset/product-image/giant_194668.jpg",
+        "category": "Laptop",
+        "category_id": "04",
+        "discountPrice": "65,000",
+        "originalPrice": "65,300"
+
+    },
+    {
+        "name": "Dell Latitude 7480 Core i5 7th Gen 14 Full HD Touch",
+        "img": "https://www.bdstall.com/asset/product-image/giant_141544.jpg",
+        "category": "Laptop",
+        "category_id": "05",
+        "discountPrice": " 31,000",
+        "originalPrice": " 31,500"
+        
+
+    },
+    {
+        "name": "Lenovo ThinkPad X1 Carbon Core i5 5th Gen Laptop",
+        "img": "https://www.bdstall.com/asset/product-image/giant_121974.jpg",
+        "category": "Laptop",
+        "category_id": "06",
+        "discountPrice": " 20,000",
+        "originalPrice": " 21,000"
+        
+
+    }
+]
